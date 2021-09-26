@@ -158,6 +158,12 @@ PRODUCT_COPY_FILES += \
     vendor/lge/alphaplus/proprietary/vendor/lib/libAutoContrast.so:$(TARGET_COPY_OUT_VENDOR)/lib/libAutoContrast.so \
     vendor/lge/alphaplus/proprietary/vendor/lib/libCmcPdaf.so:$(TARGET_COPY_OUT_VENDOR)/lib/libCmcPdaf.so \
     vendor/lge/alphaplus/proprietary/vendor/lib/libCmcPdaf_tele.so:$(TARGET_COPY_OUT_VENDOR)/lib/libCmcPdaf_tele.so \
+    vendor/lge/alphaplus/proprietary/vendor/lib/libFN3DPortrait.so:$(TARGET_COPY_OUT_VENDOR)/lib/libFN3DPortrait.so \
+    vendor/lge/alphaplus/proprietary/vendor/lib/libFNCVCore.so:$(TARGET_COPY_OUT_VENDOR)/lib/libFNCVCore.so \
+    vendor/lge/alphaplus/proprietary/vendor/lib/libFNCVFD.so:$(TARGET_COPY_OUT_VENDOR)/lib/libFNCVFD.so \
+    vendor/lge/alphaplus/proprietary/vendor/lib/libFNCVFFD.so:$(TARGET_COPY_OUT_VENDOR)/lib/libFNCVFFD.so \
+    vendor/lge/alphaplus/proprietary/vendor/lib/libFNCVMeshGen.so:$(TARGET_COPY_OUT_VENDOR)/lib/libFNCVMeshGen.so \
+    vendor/lge/alphaplus/proprietary/vendor/lib/libFNCVSegmentation.so:$(TARGET_COPY_OUT_VENDOR)/lib/libFNCVSegmentation.so \
     vendor/lge/alphaplus/proprietary/vendor/lib/libSJVideoNR.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSJVideoNR.so \
     vendor/lge/alphaplus/proprietary/vendor/lib/libSNPE.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSNPE.so \
     vendor/lge/alphaplus/proprietary/vendor/lib/libSRIyuv.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSRIyuv.so \
@@ -352,6 +358,12 @@ PRODUCT_COPY_FILES += \
     vendor/lge/alphaplus/proprietary/vendor/lib64/libAutoContrast.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libAutoContrast.so \
     vendor/lge/alphaplus/proprietary/vendor/lib64/libCmcPdaf.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libCmcPdaf.so \
     vendor/lge/alphaplus/proprietary/vendor/lib64/libCmcPdaf_tele.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libCmcPdaf_tele.so \
+    vendor/lge/alphaplus/proprietary/vendor/lib64/libFN3DPortrait.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libFN3DPortrait.so \
+    vendor/lge/alphaplus/proprietary/vendor/lib64/libFNCVCore.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libFNCVCore.so \
+    vendor/lge/alphaplus/proprietary/vendor/lib64/libFNCVFD.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libFNCVFD.so \
+    vendor/lge/alphaplus/proprietary/vendor/lib64/libFNCVFFD.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libFNCVFFD.so \
+    vendor/lge/alphaplus/proprietary/vendor/lib64/libFNCVMeshGen.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libFNCVMeshGen.so \
+    vendor/lge/alphaplus/proprietary/vendor/lib64/libFNCVSegmentation.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libFNCVSegmentation.so \
     vendor/lge/alphaplus/proprietary/vendor/lib64/libSJVideoNR.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSJVideoNR.so \
     vendor/lge/alphaplus/proprietary/vendor/lib64/libSNPE.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSNPE.so \
     vendor/lge/alphaplus/proprietary/vendor/lib64/libSRIyuv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSRIyuv.so \
